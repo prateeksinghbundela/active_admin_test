@@ -1,0 +1,2 @@
+class DesiredPaymentOne < PaymentDatum
+end
